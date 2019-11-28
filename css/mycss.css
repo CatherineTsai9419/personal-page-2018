@@ -1,0 +1,15 @@
+.img {
+    width: 200px;
+    border-radius: 50%
+}
+
+.portfolio-modal-second-title {
+    font-size: larger;
+}
+
+.bottom-row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: 345px;
+}
